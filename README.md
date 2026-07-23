@@ -2,7 +2,7 @@
 
 **`Estudante e Desenvolvedor Backend`**
 
-Sou estudante do curso de Sistemas de Informação, atualmente no 5º período, estou me aprofundando no universo Backend aprendendo sobre C# e o ecossistema .NET através de cursos e projetos práticos. Tenho um grande interesse de aprender novas tecnologias e aprimorar meus conhecimentos através da colaboração de equipe. Você pode entrar em contato comigo através do meu Linkedin disponível no badge!
+Sou estudante do curso de Sistemas de Informação, atualmente no 5º período, estou me aprofundando no universo Backend aprendendo sobre C# e o ecossistema .NET através de cursos e projetos práticos. Tenho um grande interesse em aprender novas tecnologias e aprimorar meus conhecimentos através da colaboração em equipe.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/borba-gui/">
