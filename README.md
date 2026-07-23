@@ -106,7 +106,8 @@ Sou estudante do curso de Sistemas de Informação, atualmente no 5º período, 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=guilhermebt1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermebt1&show_icons=true&theme=tokyonight&locale=pt-br)
+" 
   />
 
 <img 
