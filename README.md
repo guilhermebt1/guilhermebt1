@@ -100,15 +100,6 @@ Sou estudante do curso de Sistemas de Informação, atualmente no 5º período, 
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-stats-extended.vercel.app/api?username=guilhermebt1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
